@@ -22,8 +22,10 @@ _Getting stuff working on your local machine is optional, but can be useful. You
 
 **Instructions**: You can download pip by following the instructions at: http://www.pip-installer.org/en/latest/installing.html.
 
-### Objective: Instal virtualenv
-**TODO**
+### Objective: Install virtualenv
+**Description**: virtualenv creates an isolated Python environment that has it’s own set of packages and versions relative to your global Python installation. It’s really useful for keeping your projects separate from each other.
+
+**Instructions**: You can install virtualenv simply by typing `pip install virtualenv` into your shell.
 
 ### Objective: Install Django
 **Description**: Django (pronounced “Jango”) is an open source web application framework, written in Python, which follows the model-view-controller architectural pattern. It was originally developed to manage several news-oriented sites and has since become a standard for web development in Python. Django’s primary goal is to ease the creation of complex, database-driven websites, emphasizing reusability, and rapid development.
