@@ -17,7 +17,7 @@ _Getting stuff working on your local machine is optional, but can be useful. You
 
 - To verify Python is installed simply type `python` into your shell to start the Python interpreter. (Type `quit()` to exit.)
 
-### Optional Objective: Install `pip`
+### Objective: Install `pip`
 **Description**: `pip` is a tool for installing and managing Python packages. It’s generally useful for personal use, but it also makes install Django super easy.
 
 **Instructions**: You can download pip by following the instructions at: http://www.pip-installer.org/en/latest/installing.html.
