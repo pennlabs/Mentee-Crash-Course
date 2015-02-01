@@ -1,7 +1,7 @@
 # A Simplified PennCourseReview
 
 ## Primary Objective: Build a simplified version of PCR.
-**Description**: Welcome to PennApps Labs! We’re excited to to begin working with you! Before we get started though, it’s helpful if we can get you up to speed on the tools that we use and the environment that we work in. To that end, we’ll be guiding you through building your own simplified version of PennCourseReview. If at anytime you get stuck, feel free to personally email the author, Ceasar Bautista, at cbautista2010@gmail.com or anyone else on the team. 
+**Description**: Welcome to Penn Labs! We’re excited to to begin working with you! Before we get started though, it’s helpful if we can get you up to speed on the tools that we use and the environment that we work in. To that end, we’ll be guiding you through building your own simplified version of PennCourseReview. If at anytime you get stuck, feel free to personally email the author, Ceasar Bautista, at cbautista2010@gmail.com or anyone else on the team. 
 
 With that, let’s begin.
 
